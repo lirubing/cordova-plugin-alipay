@@ -1,4 +1,5 @@
 # cordova-plugin-alipay
+<<<<<<< HEAD
   支付宝cordova插件
 
 ## 贡献者
@@ -45,3 +46,6 @@ Alipay.pay(
 
 #####更多插件请点击：[fami2u](https://github.com/fami2u)
 #####关于我们：[FAMI](http://fami2u.com)
+=======
+cordova-plugin-alipay
+>>>>>>> 92ef63a3339e3377eb8e2b46ce96f04915bae620
